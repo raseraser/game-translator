@@ -1,0 +1,14 @@
+{
+  "ocr_engine": "tesseract",
+  "translation_api": "google",
+  "update_interval": 2.0,
+  "preprocessing": true,
+  "overlay_enabled": false,
+  "auto_copy": false,
+  "sound_notification": false,
+  "source_language": "chi_sim",
+  "target_language": "zh-tw",
+  "ocr_mode": "single",
+  "auto_detect": true,
+  "confidence_threshold": 60
+}

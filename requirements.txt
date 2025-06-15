@@ -1,0 +1,9 @@
+pillow
+pyautogui
+opencv-python
+pytesseract
+googletrans==4.0.0-rc1
+keyboard
+numpy
+easyocr
+
